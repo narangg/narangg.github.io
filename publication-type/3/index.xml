@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Aryan Deshwal</title>
+    <link>https://aryandeshwal.github.io/publication-type/3/</link>
+      <atom:link href="https://aryandeshwal.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aryandeshwal.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://aryandeshwal.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Optimization over Hybrid Spaces</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-icml/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Throughput Training of Deep CNNs on ReRAM-based Heterogeneous Architectures via Optimized Normalization Layers</title>
+      <link>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Pareto-Frontier Resource Management Policies for Heterogeneous SoCs - An Information-Theoretic Approach</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-dac/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercer Features for Efficient Combinatorial Bayesian Optimization</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-aaai/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Theoretic Multi-Objective Bayesian Optimization with Continuous Approximations</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2020-imoca/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2020-imoca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2020-max/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2020-max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Combinatorial Bayesian Optimization with Tractable Statistical models</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2020-scalable/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2020-scalable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

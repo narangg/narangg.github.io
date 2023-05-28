@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Aryan Deshwal</title>
+    <link>https://aryandeshwal.github.io/publication/</link>
+      <atom:link href="https://aryandeshwal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aryandeshwal.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://aryandeshwal.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Optimization over High-Dimensional Combinatorial Spaces via Dictionary-based Embeddings</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2023-aistats/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2023-aistats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Optimization over Permutation Spaces</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2022-aaai/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2022-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-neurips/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Optimization of Nanoporous Materials</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-mofs/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-mofs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Output Space Entropy Search Framework for Multi-Objective Bayesian Optimization</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2021-journal/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2021-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Optimization over Hybrid Spaces</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-icml/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Throughput Training of Deep CNNs on ReRAM-based Heterogeneous Architectures via Optimized Normalization Layers</title>
+      <link>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Pareto-Frontier Resource Management Policies for Heterogeneous SoCs - An Information-Theoretic Approach</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-dac/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercer Features for Efficient Combinatorial Bayesian Optimization</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-aaai/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Theoretic Multi-Objective Bayesian Optimization with Continuous Approximations</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2020-imoca/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2020-imoca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2020-max/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2020-max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Combinatorial Bayesian Optimization with Tractable Statistical models</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2020-scalable/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2020-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Discrete Spaces via Expensive Evaluations: A Learning to Search Framework</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2020-optimizing/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2020-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2020-uncertainty/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2020-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Optimization of Energy-Accuracy Tradeoff Networks for Mobile Platforms via Pretrained Deep Models</title>
+      <link>https://aryandeshwal.github.io/publication/jayakodi-2020-design/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/jayakodi-2020-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Multi-Output Switched-Capacitor Voltage Regulator via Machine Learning</title>
+      <link>https://aryandeshwal.github.io/publication/zhou-2020-design/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/zhou-2020-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Fidelity Multi-Objective Bayesian Optimization, An Output Space Entropy Search Approach</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2020-mf-osemo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2020-mf-osemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max-value Entropy Search for Multi-Objective Bayesian Optimization</title>
+      <link>https://aryandeshwal.github.io/publication/belakaria-2019-max/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/belakaria-2019-max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOOS: A multi-objective design space exploration and optimization framework for NoC enabled manycore systems</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning and inference for structured prediction: a unifying perspective</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized greedy search for structured prediction: amortized inference and learning</title>
+      <link>https://aryandeshwal.github.io/publication/ma-2019-randomized/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/ma-2019-randomized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming extreme heterogeneity via machine learning based design of autonomous manycore systems</title>
+      <link>https://aryandeshwal.github.io/publication/bogdan-2019-taming/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/bogdan-2019-taming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
