@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nitthilan Kanappan Jayakodi | Aryan Deshwal</title>
+    <link>https://aryandeshwal.github.io/author/nitthilan-kanappan-jayakodi/</link>
+      <atom:link href="https://aryandeshwal.github.io/author/nitthilan-kanappan-jayakodi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nitthilan Kanappan Jayakodi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aryandeshwal.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nitthilan Kanappan Jayakodi</title>
+      <link>https://aryandeshwal.github.io/author/nitthilan-kanappan-jayakodi/</link>
+    </image>
+    
+    <item>
+      <title>Design and Optimization of Energy-Accuracy Tradeoff Networks for Mobile Platforms via Pretrained Deep Models</title>
+      <link>https://aryandeshwal.github.io/publication/jayakodi-2020-design/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/jayakodi-2020-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOOS: A multi-objective design space exploration and optimization framework for NoC enabled manycore systems</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

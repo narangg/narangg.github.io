@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partha Pratim Pande | Aryan Deshwal</title>
+    <link>https://aryandeshwal.github.io/author/partha-pratim-pande/</link>
+      <atom:link href="https://aryandeshwal.github.io/author/partha-pratim-pande/index.xml" rel="self" type="application/rss+xml" />
+    <description>Partha Pratim Pande</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aryandeshwal.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Partha Pratim Pande</title>
+      <link>https://aryandeshwal.github.io/author/partha-pratim-pande/</link>
+    </image>
+    
+    <item>
+      <title>High-Throughput Training of Deep CNNs on ReRAM-based Heterogeneous Architectures via Optimized Normalization Layers</title>
+      <link>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Pareto-Frontier Resource Management Policies for Heterogeneous SoCs - An Information-Theoretic Approach</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2021-dac/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2021-dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Multi-Output Switched-Capacitor Voltage Regulator via Machine Learning</title>
+      <link>https://aryandeshwal.github.io/publication/zhou-2020-design/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/zhou-2020-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOOS: A multi-objective design space exploration and optimization framework for NoC enabled manycore systems</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

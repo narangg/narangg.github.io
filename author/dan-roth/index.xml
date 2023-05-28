@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Roth | Aryan Deshwal</title>
+    <link>https://aryandeshwal.github.io/author/dan-roth/</link>
+      <atom:link href="https://aryandeshwal.github.io/author/dan-roth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Roth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aryandeshwal.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dan Roth</title>
+      <link>https://aryandeshwal.github.io/author/dan-roth/</link>
+    </image>
+    
+    <item>
+      <title>Learning and inference for structured prediction: a unifying perspective</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized greedy search for structured prediction: amortized inference and learning</title>
+      <link>https://aryandeshwal.github.io/publication/ma-2019-randomized/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/ma-2019-randomized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

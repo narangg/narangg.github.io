@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biresh Kumar Joardar | Aryan Deshwal</title>
+    <link>https://aryandeshwal.github.io/author/biresh-kumar-joardar/</link>
+      <atom:link href="https://aryandeshwal.github.io/author/biresh-kumar-joardar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biresh Kumar Joardar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aryandeshwal.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Biresh Kumar Joardar</title>
+      <link>https://aryandeshwal.github.io/author/biresh-kumar-joardar/</link>
+    </image>
+    
+    <item>
+      <title>High-Throughput Training of Deep CNNs on ReRAM-based Heterogeneous Architectures via Optimized Normalization Layers</title>
+      <link>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/joardar-2021-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOOS: A multi-objective design space exploration and optimization framework for NoC enabled manycore systems</title>
+      <link>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/deshwal-2019-moos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming extreme heterogeneity via machine learning based design of autonomous manycore systems</title>
+      <link>https://aryandeshwal.github.io/publication/bogdan-2019-taming/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://aryandeshwal.github.io/publication/bogdan-2019-taming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
